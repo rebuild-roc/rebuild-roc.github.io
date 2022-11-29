@@ -20,7 +20,7 @@ TORSOCKS_OPT =
 I2P_PROXY_IP = 10.0.2.2
 GIT = git
 
-REMOTE_GITHUB = github
+REMOTE_GITHUB = origin
 BRANCHES_TO_SYNC = main draft
 
 help:
